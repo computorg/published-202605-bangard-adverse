@@ -79,6 +79,7 @@ citation:
   publisher: "French Statistical Society"
   issn: "2824-7795"
   url: "https://computo-journal.org/published-202605-bangard-adverse/"
+  pdf-url: "https://computo-journal.org/published-202605-bangard-adverse/main.pdf"
 google-scholar: true
 related-identifiers:
   - relation: IsVersionOf
